@@ -1,5 +1,5 @@
 # MWBDiff
-A modified implementation of VCDIFF (https://www.researchgate.net/publication/279639182_The_VCDIFF_Generic_Differencing_and_Compression_Data_Format) used by Modern Warfare 2 2022's FastFiles for data compression.
+A modified implementation of VCDIFF (https://www.researchgate.net/publication/279639182_The_VCDIFF_Generic_Differencing_and_Compression_Data_Format) used by Modern Warfare 2019 and Modern Warfare 2 2022's FastFiles for data compression.
 
 # Usage
 There is only one export:
