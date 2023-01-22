@@ -12,3 +12,5 @@ There is only one export:
 where sourceBuffer and patchBuffer are pointers to the source and patch files, and outBuffer is a pointer to memory to be filled with the resulting patched FastFile.
 
 outBufferSize must be the EXACT size of the resulting patched FastFile.
+
+Will return false if any errors are encountered during diffing, true if was successful.
